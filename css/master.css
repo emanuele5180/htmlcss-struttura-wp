@@ -38,7 +38,7 @@ body {
   width: 19%;
   /* debug */
   height: 300px;
-  background: blue;
+  background: violet;
 
 }
 
@@ -49,7 +49,7 @@ body {
   margin-right: 1%;
   /* debug */
   height:500px;
-  background-color: green;
+  background-color: rgb(129 34 141);
 
 }
 
@@ -75,7 +75,7 @@ body {
   margin-bottom: 3%;
   /* debug */
   height: 150px;
-  background-color: blue;
+  background-color: violet;
 
 }
 
@@ -84,6 +84,6 @@ body {
   width: 100%;
   /* debug */
   height: 150px;
-  background-color: lightgrey;
+  background-color: violet;
 
 }
